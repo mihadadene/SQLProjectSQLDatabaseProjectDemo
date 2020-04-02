@@ -1,0 +1,84 @@
+2020-03-23 00:09:57	Ce journal contient des informations sur l'importation du schéma dans le projet 'SQLFromExisting' sur l'ordinateur 'WINASUS' par l'utilisateur 'moham'.
+2020-03-23 00:09:57	L'importation du schéma de base de données a commencé.
+2020-03-23 00:10:01	Collecte des informations d'identification à la base de données
+2020-03-23 00:10:01	Collecte des options de la base de données
+2020-03-23 00:10:01	Collecte des utilisateurs
+2020-03-23 00:10:01	Collecte des rôles
+2020-03-23 00:10:01	Collecte des rôles d'application
+2020-03-23 00:10:01	Collecte des appartenances aux rôles
+2020-03-23 00:10:01	Collecte des groupes de fichiers
+2020-03-23 00:10:01	Collecte des catalogues de recherche en texte intégral
+2020-03-23 00:10:01	Collecte des assemblys
+2020-03-23 00:10:01	Collecte des certificats
+2020-03-23 00:10:01	Collecte des clés asymétriques
+2020-03-23 00:10:01	Collecte des clés symétriques
+2020-03-23 00:10:01	Collecte des clés symétriques chiffrées
+2020-03-23 00:10:01	Collecte des schémas
+2020-03-23 00:10:01	Collecte des collections de schémas XML
+2020-03-23 00:10:01	Collecte des types de données définis par l'utilisateur
+2020-03-23 00:10:01	Collecte des types définis par l'utilisateur
+2020-03-23 00:10:01	Collecte des types de tables
+2020-03-23 00:10:01	Collecte des clés uniques des types de tables
+2020-03-23 00:10:01	Collecte des clés primaires pour les types de tables
+2020-03-23 00:10:01	Collecte d'index pour types de tables
+2020-03-23 00:10:01	Collecte des contraintes de validation pour les types de tables
+2020-03-23 00:10:01	Collecte des contraintes par défaut pour les types de tables
+2020-03-23 00:10:01	Collecte des fonctions de partition
+2020-03-23 00:10:01	Collecte des schémas de partition
+2020-03-23 00:10:01	Collecte des fonctions
+2020-03-23 00:10:01	Collecte de fonctions cryptées
+2020-03-23 00:10:01	Collecte des agrégats
+2020-03-23 00:10:01	Collecte des procédures
+2020-03-23 00:10:01	Collecte de procédures cryptées
+2020-03-23 00:10:01	Collecte des tables
+2020-03-23 00:10:01	Collecte des clés primaires
+2020-03-23 00:10:01	Collecte des contraintes uniques
+2020-03-23 00:10:01	Collecte des clés étrangères
+2020-03-23 00:10:01	Collecte des contraintes par défaut
+2020-03-23 00:10:01	Collecte des contraintes de validation
+2020-03-23 00:10:01	Collecte des vues
+2020-03-23 00:10:01	Collecte de vues cryptées
+2020-03-23 00:10:01	Collecte des index
+2020-03-23 00:10:01	Collecte des statistiques
+2020-03-23 00:10:01	Collecte des listes de mots vides d'index de recherche en texte intégral
+2020-03-23 00:10:01	Collecte des listes de propriétés de recherche
+2020-03-23 00:10:01	Collecte des propriétés de recherche
+2020-03-23 00:10:01	Collecte des index de recherche en texte intégral
+2020-03-23 00:10:01	Collecte des index de la banque de colonnes
+2020-03-23 00:10:01	Collecte des index spatiaux
+2020-03-23 00:10:01	Collecte des index XML
+2020-03-23 00:10:01	Collecte d'index XML sélectifs
+2020-03-23 00:10:01	Collecte de déclencheurs cryptés
+2020-03-23 00:10:01	Collecte des déclencheurs
+2020-03-23 00:10:01	Collecte des déclencheurs chiffrés et DDL CLR
+2020-03-23 00:10:01	Collecte des DDL triggers
+2020-03-23 00:10:01	Collecte des synonymes
+2020-03-23 00:10:01	Collecte des valeurs par défaut
+2020-03-23 00:10:01	Collecte des liaisons UDDT de contrainte de données
+2020-03-23 00:10:01	Collecte des règles
+2020-03-23 00:10:01	Collecte des liaisons UDDT de contrainte de données
+2020-03-23 00:10:01	Collecte des types de messages
+2020-03-23 00:10:01	Collecte des files d'attente
+2020-03-23 00:10:01	Collecte des contrats
+2020-03-23 00:10:01	Collecte des services
+2020-03-23 00:10:01	Collecte des notifications d'événements
+2020-03-23 00:10:01	Collecte des liaisons de service distant
+2020-03-23 00:10:01	Collecte des priorités de Service Broker
+2020-03-23 00:10:01	Collecte des signatures
+2020-03-23 00:10:01	Collection des options de compression de données
+2020-03-23 00:10:01	Collecte des types de séquences
+2020-03-23 00:10:01	Collecte des stratégies de sécurité
+2020-03-23 00:10:01	Collecter les clés de chiffrement de colonne
+2020-03-23 00:10:01	Collecte des clés principales de colonne
+2020-03-23 00:10:01	Collecte des sources de données externes
+2020-03-23 00:10:01	Collecte des formats de fichier externes
+2020-03-23 00:10:01	Collecte des tables externes
+2020-03-23 00:10:01	Collection des propriétés étendues
+2020-03-23 00:10:01	Collecte des informations d'identification
+2020-03-23 00:10:01	Collecte des connexions
+2020-03-23 00:10:01	Collecte des audits du serveur
+2020-03-23 00:10:01	Analyse du projet à la recherche des éléments en double
+2020-03-23 00:10:01	Fin du traitement des éléments en double
+2020-03-23 00:10:01	Importation de la base de données terminée.
+2020-03-23 00:10:01	Un résumé de l'opération d'importation a été enregistré à l'emplacement suivant : C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLFromExisting\Importer les journaux de schémas\SQLFromExisting_20200323040957.log.
+2020-03-23 00:10:01	Cliquez sur Terminer pour continuer...

@@ -1,0 +1,21 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Renommer
+       [dbo].[Person].[Id] (Colonne)
+     Supprimer
+       [dbo].[FK_Address_Person] (Clé étrangère)
+     Créer
+       [dbo].[FK_Address_Person] (Clé étrangère)
+       [dbo].[FullPerson] (Vue)
+       [dbo].[spPerson_FilterByLastName] (Procédure)
+
+** Actions de support

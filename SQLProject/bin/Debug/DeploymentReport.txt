@@ -1,0 +1,17 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Address] (Table)
+       [dbo].[Person] (Table)
+       [dbo].[FK_Address_Person] (Clé étrangère)
+
+** Actions de support

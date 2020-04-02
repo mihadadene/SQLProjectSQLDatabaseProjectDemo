@@ -1,0 +1,6 @@
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\bin\Debug\SQLProject.dacpac
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\bin\Debug\SQLProject.dll
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\bin\Debug\SQLProject.pdb
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\obj\Debug\SQLProject.sqlprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\obj\Debug\SQLProject.dll
+C:\Users\mihadadene\source\repos\SQLProjectSQLDatabaseProjectDemo\SQLProject\obj\Debug\SQLProject.pdb
